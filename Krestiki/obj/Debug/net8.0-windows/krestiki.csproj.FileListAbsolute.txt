@@ -1,0 +1,4 @@
+C:\Users\tagirner\source\repos\krestiki\krestiki\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tagirner\source\repos\krestiki\krestiki\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tagirner\source\repos\krestiki\krestiki\obj\Debug\net8.0-windows\krestiki_MarkupCompile.cache
+C:\Users\tagirner\source\repos\krestiki\krestiki\obj\Debug\net8.0-windows\krestiki_MarkupCompile.lref
